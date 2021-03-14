@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm test"
   },
-  "author": "Nando Teddy - COE",
+  "author": "Nando Teddy",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",

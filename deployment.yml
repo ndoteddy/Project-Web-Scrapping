@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: poc-minikube
+  name: poc-minikube
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: poc-minikube
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: poc-minikube
+    spec:
+      containers:
+      - image: poc-minikube
+        name: poc-minikube
+        imagePullPolicy: Never
+        resources: {}
+        ports:
+          - containerPort: 3000 
+status: {}

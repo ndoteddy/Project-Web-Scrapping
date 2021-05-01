@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: poc-minikube-pod
+spec:
+  containers:
+    - image: poc-minikube
+      name: poc-minikube
+      imagePullPolicy: Never
+      resources: {}
+      ports:
+        - containerPort: 3000

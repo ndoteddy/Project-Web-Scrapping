@@ -53,13 +53,13 @@
 ## About The Project
 
 
-Simple - you are not a great engineer if you unable to share your knowledge , remember 99% people will be forgotten once they gone. So i plan to put my simple research and maybe will be archive in north atlantic later under github archive project lol ! Maybe next generation will see my code haha
+Simple - you are not a great engineer if you unable to share your knowledge, remember 99% people will be forgotten once they gone from this world. So i plan to put my simple research and maybe will be archive in north atlantic later under github archive project lol ! Maybe next generation will see my code haha
 
 
 Here's why:
-* You only  life once  (yolo !!)
-* Great engineer at least do something out side their work (come on work whole year never comeout with anything to share? really ?)
-* Great engineer at least have some proff that not only can "talk" but also have going through the pain and blood altogether
+* You only life once  (YOLO !!)
+* Great engineer at least do something out side their work (come on work whole year never comeout with anything to share? really?)
+* Great engineer at least have some proff that not only can "talk but never implement" but also have going through the pain and blood for realworld implementation.
 * Great engineer always willing to share/discuss with people from other industry
 * At least with this all those university/newbie/experience/IT enthusiast can pick something 
 
@@ -68,7 +68,7 @@ Here's why:
 Of course, no one care and sometime nobody care - even in Industry world- "when someone in meeting say I dont care" some engineer feel ..... (you can feel it) (lol kidding !)
 
 So same like this - we dont care whether you read, use or whatever, my concern is just to ensure at least somebody in this world
-can learn and utilize it for greater purpose.
+can learn, at least or utilize it for greater purpose.
 
 
 ### Built With
@@ -87,7 +87,7 @@ Never start never know - just start lah bro !
 Just clone and run npm install
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 
 
@@ -99,14 +99,14 @@ Just clone and run npm install
 * curl --request GET
   --url http://localhost:3000/featureproducts
 
-* .curl --request GET
+* curl --request GET
   --url http://localhost:3000/newarrivals
 
 <!-- ROADMAP -->
 ## Roadmap
 
-Maybe in future me/somebody in this world will use this project for purpose - 
-I also think to combine this with blockchain but lets put your commment 
+Maybe in future me/somebody in this world will use this project for greater purpose - 
+I also think to combine this with blockchain technology later on but let see
 
 <!-- CONTRIBUTING -->
 ## Contributing

@@ -6,7 +6,7 @@
   <h3 align="center">Project-Web-Scrapping</h3>
 
   <p align="center">
-    Lets play the basic web scrapping with cherrio
+    Lets play the basic web scrapping with cherrio + host it in docker +kubernetes
     <br />
     <a href="https://github.com/ndoteddy/Project-Web-Scrapping/blob/main/readme.md"><strong>Explore the docs »</strong></a>
     <br />

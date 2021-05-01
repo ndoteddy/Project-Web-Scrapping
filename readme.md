@@ -1,19 +1,7 @@
 
-[![Contributors][contributors-shield]][https://www.linkedin.com/in/hernandoivanteddy/]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/hernandoivanteddy/]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Project-Web-Scrapping</h3>
 
@@ -135,22 +123,19 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
-
 Your Name - [Hernando Ivan Teddy](https://www.linkedin.com/in/hernandoivanteddy/) 
-
-Project Link: [https://github.com/ndoteddy/Project-Web-Scrapping](https://github.com/ndoteddy/Project-Web-Scrapping)
+Project Link: [https://github.com/ndoteddy/Project-Web-Scrapping](https://github.com/ndoteddy/)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Article
+## Article Published In Medium
 * [Connecting the dot with cheerio and nodeJs (Web Scrapping)](https://medium.com/scriptkiddiez/connecting-the-dot-with-cherrio-web-scrapping-f8f915f8a359?source=your_stories_page-------------------------------------)
 * [How to play with minikube](https://medium.com/scriptkiddiez/how-to-play-with-minikube-3491dbac30f)
 
